@@ -1,2 +1,2 @@
-# wave-executor
-Wave executor bypassed tested and working on 14/11/2024, disable antivirus before running these are false positives due to executor being compiled.
+# Byfron-Bypass
+Byfron-Bypass tested and working on 15/11/2024, disable antivirus before running due to false positives.
